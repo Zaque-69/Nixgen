@@ -1,0 +1,6 @@
+customtkinter==5.2.2
+darkdetect==0.8.0
+packaging==24.1
+pexpect==4.9.0
+ptyprocess==0.7.0
+typing_extensions==4.12.2
